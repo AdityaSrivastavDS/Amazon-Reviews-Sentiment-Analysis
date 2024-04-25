@@ -18,9 +18,7 @@ To use this sentiment analysis model, follow these steps:
     git clone https://github.com/yourusername/Amazon-Reviews-Sentiment-Analysis.git
     ```
 2. Install the required dependencies:
-    ```bash
-    pip install -r requirements.txt
-    ```
+    
 3. Run the Python script for sentiment analysis:
     ```bash
     python sentiment_analysis.py
@@ -32,6 +30,12 @@ This project requires the following Python libraries:
 - PyTorch
 - numpy
 - pandas
+- tqdm
+- matplotlib
+- seaborn
+- nltk
+- scipy
+- transformers
 <!-- Add more if necessary -->
 
 ## Model
@@ -43,7 +47,7 @@ Contributions are welcome! If you have any suggestions, improvements, or bug fix
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-Dataset is large size. If anyone wants datasets then they can download from here https://git-lfs.github.com.
+Dataset is large size. If anyone wants datasets then they can download from here https://www.kaggle.com/code/robikscube/sentiment-analysis-python-youtube-tutorial/input.
 
 </body>
 </html>
