@@ -6,7 +6,7 @@
     <h1>Amazon Reviews Sentiment Analysis</h1>
     <img src = 'https://i2.wp.com/thecleverprogrammer.com/wp-content/uploads/2020/06/Untitled-62.png?fit=580%2C326&ssl=1'>
     
-    # Amazon Reviews Sentiment Analysis
+
 
 ## Introduction
 This project is a sentiment analysis model trained on Amazon reviews using the RoBERTa model from the Transformers library in Natural Language Processing (NLP).
